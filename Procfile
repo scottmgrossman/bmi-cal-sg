@@ -1,1 +1,1 @@
-web: python BMI_Calculator.py --port=$PORT
+web: python BMI_Calculator.py
